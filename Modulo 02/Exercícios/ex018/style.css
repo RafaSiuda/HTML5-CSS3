@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'girl';
+    src: url('fontes/filxgirl.TTF') format(truetype);
+}
+
+body{
+    font-family: 'girl';
+    font-size: 2em;
+    background-color: aqua;
+}
+
+h1{
+    font-size: 3em;
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 50px;
+
+}
+
+main{
+    width: 600px;
+    box-shadow: 5px 5px 5px black;
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+    margin: auto;
+    margin-top: 150px;
+    text-align: justify;
+}
